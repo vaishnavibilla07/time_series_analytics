@@ -121,6 +121,6 @@ git clone https://github.com/your-username/time_series_analytics.git
 pip install -r requirements.txt
 
 # Open the notebook
-jupyter notebook Time_Series_Analytics.ipynb
+jupyter notebook Time_Series_Analytics_.ipynb
 
 
