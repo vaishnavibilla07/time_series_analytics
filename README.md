@@ -61,12 +61,6 @@ Implemented multiple forecasting models:
 - Identified parameters using **ACF/PACF plots**  
 - Trained ARIMA(p, d, q) model  
 
-#### 🔸 **SARIMA** (if seasonal data)
-- Captured seasonal trends  
-
-#### 🔸 **Prophet** (optional)
-- Simple, robust forecasting with seasonality  
-
 ---
 
 ## 📈 Evaluation Metrics
@@ -94,7 +88,7 @@ Example output:
 
 ## 🧠 Key Insights
 - Identified clear **trend** and **seasonality** patterns  
-- ARIMA / Prophet models produced stable forecasts  
+- ARIMA models produced stable forecasts  
 - Forecasting accuracy remained high for short-term predictions  
 - Model can be generalized for sales, demand, telecom usage, sensor readings, and more  
 
